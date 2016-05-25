@@ -1,0 +1,14 @@
+layout_spectrum: 0.3814000634010881
+typography_spectrum: 0.6720923020038754
+color:
+  brandStrength: 0.8628024836070836
+  lightness: 0.3421285308431834
+  saturation: 0.6124611811246723
+  rhythmicContrast: 0.698794994968921
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: VinhaLisboa
