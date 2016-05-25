@@ -6,9 +6,9 @@ color:
   saturation: 0.6124611811246723
   rhythmicContrast: 0.698794994968921
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: VinhaLisboa
