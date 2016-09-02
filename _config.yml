@@ -1,4 +1,3 @@
-layout_spectrum: 0.3814000634010881
 typography_spectrum: 0.6720923020038754
 color:
   brandStrength: 0.8628024836070836
@@ -11,4 +10,5 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.3814000634010881
 name: VinhaLisboa
